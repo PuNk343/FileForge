@@ -1,0 +1,4 @@
+# FileForge v0.1 — minimal, no AI deps yet
+click>=8.1
+# Optional: uncomment for the Streamlit dashboard (ui/app.py)
+# streamlit>=1.30
